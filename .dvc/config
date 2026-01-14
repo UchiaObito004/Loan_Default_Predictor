@@ -1,4 +1,0 @@
-[core]
-    remote = mybucket
-['remote "mybucket"']
-    url = ../s3

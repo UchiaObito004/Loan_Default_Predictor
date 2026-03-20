@@ -111,7 +111,14 @@ uvicorn Api:app --reload
 
 ## 📸 Screenshots
 
-> _Add Streamlit app screenshots here_
+### 📊 Dataset Preview & Model Accuracy
+![Dataset Preview](dataset_preview.png)
+
+### 📝 Input Form
+![Input Form](input_form.png)
+
+### 🎯 Prediction Result
+![Prediction Result](prediction_result.png)
 
 ---
 
